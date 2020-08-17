@@ -1,0 +1,47 @@
+{
+        "FM POWER": {
+            "name" : "FM Power",
+            "channel_id" : "2",
+            "alias" : ["powerfm"],
+            "streamurl" : "http://listen.livestreamingservice.com/181-powerexplicit_128k.mp3"
+        },
+        "HITRADIO": {
+            "name" : "HITRADIO MA",
+            "channel_id" : "3",
+            "alias" : ["hitradio"],
+            "streamurl" : "http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+        },
+        "Radio Non Stop": {
+            "name" : "Radio Non Stop",
+            "channel_id" : "4",
+            "alias" : ["powerradio"],
+            "streamurl" : "http://direct.mouv.fr/live/mouv-midfi.mp3?ID=33c5hej2c2"
+        },
+        "skyrock": {
+            "name" : "SKYROCK",
+            "channel_id" : "94",
+            "alias" : ["skyrock"],
+            "streamurl" : "http://icecast.skyrock.net/s/natio_mp3_128k"
+        },
+        "powerhitradio": {
+            "name" : "Power Hit Radio",
+            "channel_id" : "6",
+            "alias" : ["power"],
+            "streamurl" : "http://live-bauer-al.sharp-stream.com/key.aac"
+        },
+          "powerhit": {
+            "name" : "Power Hit ",
+            "channel_id" : "6",
+            "alias" : ["powerhit"],
+            "streamurl" : "http://mp3.ffh.de/radioffh/hqlivestream-rheinmain.mp3"
+        },
+            "RAY": {
+            "name" : "RAY",
+            "channel_id" : "6",
+            "alias" : ["ray"],
+            "streamurl" : "http://radio-dzair.net:8020/;"
+
+        }
+        }
+
+    
