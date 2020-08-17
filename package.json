@@ -94,6 +94,9 @@
     "promise": "^8.1.0",
     "O_o": "^1.0.1"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "scripts": {
     "start": "node index.js"
   }
